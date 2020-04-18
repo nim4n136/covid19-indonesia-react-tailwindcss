@@ -4,7 +4,7 @@ import Text from "./component/atoms/Text"
 function App() {
   return (
     <div className="App">
-      Hello World
+      <Text>Hello World</Text>  
     </div>
   );
 }
